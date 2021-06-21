@@ -1,0 +1,23 @@
+File FIT5149_Group29_Ass2.ipynb will loaded in jupyter notebook. Make sure Anaaconnda is installed on your system.
+
+Before running the FIT5149_Group29_Ass2.ipynb file, please install the following libraries:
+- sklearn
+- xgboost
+- imblearn
+- seaborn
+- pandas
+- matplotlib
+- warnings
+- numpy
+
+This folder contain train_data_withlabels.csv file on which models are trained and test_data_nolabels.csv is testing data on which predctions are made. 
+Please note testing file does not contain the labels and have to be predicted.
+
+pred_labels.csv contain prediction results for test_data_nolabels.csv data.
+
+To run the file, Run each cell in sequence, and it will generate pred_labels.csv file.
+
+
+
+
+
